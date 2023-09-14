@@ -1,3 +1,8 @@
+# Class 2
+
+## Installations
+npm install @rneui/themed @rneui/base
+
 ## run app
 npx expo start
 
@@ -12,6 +17,3 @@ npx expo install react-native-screens react-native-safe-area-context
 
 [Stack Navigator](https://reactnavigation.org/docs/native-stack-navigator/)
 npm install @react-navigation/native-stack
-
-# UI Kitten
-npm i @ui-kitten/components @eva-design/eva react-native-svg
